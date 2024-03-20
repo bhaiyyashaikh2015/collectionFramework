@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Bhaiyya Shaikh\Desktop\voicera-analytics\voicera-analytics\Collection Framework\.metadata\.plugins\org.eclipse.jdt.core
+1303301739.index
+1865797976.index
+1457718264.index
